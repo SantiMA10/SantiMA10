@@ -1,6 +1,6 @@
-<img width="120" align="right" src="./.github/avatar.jpg" style="border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% " />
+<img height="120" align="right" src="./.github/avatar.png" />
 
-### Hola, soy Santi 🚀
+## Hola, soy Santi 🚀
 
 - 😇 Software Engineer
 - 📅 Cosas de comunidad en @asturiasjs 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🟣 Mis últimos directos en [Twitch](http://santi.live)
+## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 <a href='https://www.twitch.tv/videos/828959823' target='_blank'>
   <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/98972bfccf054dd46563_santima10_40268197820_1607359027/thumb/thumb0-320x180.jpg' alt='🏗  Construyendo @streamdevs/platform utilizando Firebase y NEXT.js 🔥' />
 </a>
