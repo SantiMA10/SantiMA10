@@ -31,4 +31,4 @@ jobs:
         git config user.email santiagomartinagra@gmail.com
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] docs(README.md): Update with latest info"
-        git push origin master
+        git push origin main
