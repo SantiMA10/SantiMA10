@@ -20,8 +20,8 @@
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/98972bfccf054dd46563_santima10_40268197820_1607359027/thumb/thumb0-320x180.jpg' alt='🏗  Construyendo @streamdevs/platform utilizando Firebase y NEXT.js 🔥' />
 </a><a href='https://www.twitch.tv/videos/819833558' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/4f6da8a9c632bb109a0e_santima10_40174771452_1606665256/thumb/thumb0-320x180.jpg' alt='🏗  Construyendo @streamdevs/platform utilizando Firebase y NEXT.js 🔥' />
-</a><a href='https://www.twitch.tv/videos/818656494' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/c8e10146f70c53ab65fe_santima10_40161155900_1606579448/thumb/thumb0-320x180.jpg' alt='🏗  Construyendo @streamdevs/platform utilizando Firebase y NEXT.js 🔥' />
+</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a>
 
 ---
