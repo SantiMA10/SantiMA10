@@ -16,9 +16,7 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/828959823' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/98972bfccf054dd46563_santima10_40268197820_1607359027/thumb/thumb0-320x180.jpg' alt='🏗  Construyendo @streamdevs/platform utilizando Firebase y NEXT.js 🔥' />
-</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
+<a href='https://www.twitch.tv/videos/623745130' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a><a href='https://www.twitch.tv/videos/610282071' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e80012229508c9d2388e_santima10_53745942379_5534629342/thumb/thumb610282071-320x180.jpg' alt='v1.0.0-beta release' />
