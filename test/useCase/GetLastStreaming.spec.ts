@@ -47,5 +47,19 @@ describe("GetLastStreaming", () => {
         ])
       );
     });
+
+    it("doesn't return streamings without thumbnail", async () => {
+      const videoResponse = GetVideosResponseBuilder.build({
+        thumbnail_url: "",
+      });
+      const twitchDriver = ({
+        post: jest.fn(async () => ({ data: [videoResponse] })),
+      } as unknown) as TwitchDriver;
+      const subject = new GetLastStreaming(twitchDriver);
+
+      const { data } = await subject.execute({ userId: "userId" });
+
+      expect(data).toBeEmpty();
+    });
   });
 });

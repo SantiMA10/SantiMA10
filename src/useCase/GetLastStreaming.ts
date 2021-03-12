@@ -15,18 +15,20 @@ export class GetLastStreaming {
     );
 
     return {
-      data: data.map((video) => {
-        const thumbnail = video.thumbnail_url
-          .replace("//thumb", "/thumb")
-          .replace("%{height}", "180")
-          .replace("%{width}", "320");
+      data: data
+        .filter((video) => !!video.thumbnail_url)
+        .map((video) => {
+          const thumbnail = video.thumbnail_url
+            .replace("//thumb", "/thumb")
+            .replace("%{height}", "180")
+            .replace("%{width}", "320");
 
-        return {
-          url: video.url,
-          title: video.title,
-          thumbnail_url: thumbnail,
-        };
-      }),
+          return {
+            url: video.url,
+            title: video.title,
+            thumbnail_url: thumbnail,
+          };
+        }),
     };
   }
 }
