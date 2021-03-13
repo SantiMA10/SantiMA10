@@ -1,10 +1,11 @@
 import { graphql } from "@octokit/graphql";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
+import { GitHubRepository } from "../entities/GitHubRepository";
 
 export class GitHubDriver {
     public constructor(private config: {token: string}) {}
 
-    public async getRepositories() {
+    public async getRepositories(): Promise<GitHubRepository[]> {
         try {
 
             const data = await graphql<GraphQlQueryResponseData>(
