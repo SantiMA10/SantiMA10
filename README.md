@@ -26,6 +26,16 @@
 
 ---
 
+---
+
+## ⭐️ Mis repos con más estrellas
+
+- ⭐️⭐️⭐️ [tailwindcss-parcel-starter](https://github.com/SantiMA10/tailwindcss-parcel-starter) 42
+- ⭐️⭐️ [devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 35
+- ⭐️ [lights](https://github.com/streamdevs/lights) 7
+
+---
+
 <p align="center">
 <i>¡Gracias a <a href="https://github.com/midudev" target="_blank"> midudev</a>, <a href="https://github.com/pablosirera" taget="_blank">Pablo Sirera</a> y <a href="https://github.com/carlosazaustre" target="_blank">Carlos Azaustre</a> por la inspiración!</i>
 </p>
