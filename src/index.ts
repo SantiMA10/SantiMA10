@@ -2,6 +2,9 @@ import { TwitchDriver } from "./drivers/TwitchDriver";
 import { GetLastStreaming } from "./useCase/GetLastStreaming";
 import fs from "fs";
 import { TwitchVideoPresenter } from "./presenters/TwitchVideoPresenter";
+import { GitHubDriver } from "./drivers/GitHubDriver";
+import { GetTopRepositories } from "./useCase/GetTopRepositories";
+import { GitHubRepositoriesPresenter } from "./presenters/GitHubRepositoriesPresenter";
 
 const updateTwitch = async () => {
   const twitchDriver = new TwitchDriver({
@@ -21,9 +24,15 @@ const updateTwitch = async () => {
     })
     .join("");
 
+  const gitHubDriver = new GitHubDriver({ token: process.env.GITHUB_TOKEN || "" });
+  const {data: repositories} = await new GetTopRepositories(gitHubDriver).execute();
+  const repositoriesMarkdown = new GitHubRepositoriesPresenter(repositories).toMarkdown();
+
   fs.writeFileSync(
     `${__dirname}/../README.md`,
-    readme.replace("{! twitch !}", htmlVideo)
+    readme
+      .replace("{! twitch !}", htmlVideo)
+      .replace("{! repos !}", repositoriesMarkdown)
   );
 };
 
