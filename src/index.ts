@@ -1,5 +1,3 @@
-import 'reflect-metadata';
-
 import fs from 'fs';
 
 import { GitHubDriver } from './drivers/GitHubDriver';
