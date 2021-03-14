@@ -1,4 +1,5 @@
 import nock from 'nock';
+
 import { TwitchDriver } from '../../src/drivers/TwitchDriver';
 import { GetVideosResponse } from '../../src/entities/twitch/GetVideosResponse';
 import { GetVideosResponseBuilder } from '../builders/twitch/GetVideosResponseBuilder';

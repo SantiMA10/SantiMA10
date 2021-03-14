@@ -1,10 +1,13 @@
-import { TwitchDriver } from './drivers/TwitchDriver';
-import { GetLastStreaming } from './useCase/GetLastStreaming';
+import 'reflect-metadata';
+
 import fs from 'fs';
-import { TwitchVideoPresenter } from './presenters/TwitchVideoPresenter';
+
 import { GitHubDriver } from './drivers/GitHubDriver';
-import { GetTopRepositories } from './useCase/GetTopRepositories';
+import { TwitchDriver } from './drivers/TwitchDriver';
 import { GitHubRepositoriesPresenter } from './presenters/GitHubRepositoriesPresenter';
+import { TwitchVideoPresenter } from './presenters/TwitchVideoPresenter';
+import { GetLastStreaming } from './useCase/GetLastStreaming';
+import { GetTopRepositories } from './useCase/GetTopRepositories';
 
 const updateTwitch = async () => {
 	const twitchDriver = new TwitchDriver({

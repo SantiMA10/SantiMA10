@@ -1,4 +1,5 @@
 import nock from 'nock';
+
 import { GitHubDriver } from '../../src/drivers/GitHubDriver';
 import { GitHubRepository } from '../../src/entities/GitHubRepository';
 import { GitHubRepositoryBuilder } from '../builders/GitHubRepositoryBuilder';

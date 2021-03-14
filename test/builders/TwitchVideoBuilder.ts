@@ -1,5 +1,6 @@
 import * as Factory from 'factory.ts';
 import { internet, random } from 'faker';
+
 import { TwitchVideo } from '../../src/entities/TwitchVideo';
 
 export const TwitchVideoBuilder = Factory.Sync.makeFactory<TwitchVideo>({

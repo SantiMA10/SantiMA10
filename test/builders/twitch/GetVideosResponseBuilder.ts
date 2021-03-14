@@ -1,5 +1,6 @@
 import * as Factory from 'factory.ts';
 import { date, internet, random } from 'faker';
+
 import { GetVideosResponse } from '../../../src/entities/twitch/GetVideosResponse';
 
 export const GetVideosResponseBuilder = Factory.Sync.makeFactory<GetVideosResponse>({

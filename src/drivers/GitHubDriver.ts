@@ -1,5 +1,6 @@
-import { graphql } from '@octokit/graphql';
 import type { GraphQlQueryResponseData } from '@octokit/graphql';
+import { graphql } from '@octokit/graphql';
+
 import { GitHubRepository } from '../entities/GitHubRepository';
 
 export class GitHubDriver {
