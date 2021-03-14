@@ -1,57 +1,32 @@
 import nock from 'nock';
 import { GitHubDriver } from '../../src/drivers/GitHubDriver';
+import { GitHubRepository } from '../../src/entities/GitHubRepository';
+import { GitHubRepositoryBuilder } from '../builders/GitHubRepositoryBuilder';
+
+const mockRepositoriesRequest = (repositories: GitHubRepository[]) => {
+	return nock('https://api.github.com')
+		.post('/graphql')
+		.reply(200, {
+			data: {
+				repositoryOwner: {
+					repositories: {
+						nodes: repositories,
+					},
+				},
+			},
+		});
+};
 
 describe('GitHubDriver', () => {
 	describe('#getRepositories', () => {
 		it('returns the list of repositories with more stargazer', async () => {
-			nock('https://api.github.com')
-				.post('/graphql')
-				.reply(200, {
-					data: {
-						repositoryOwner: {
-							repositories: {
-								nodes: [
-									{
-										name: 'tailwindcss-parcel-starter',
-										stargazerCount: 42,
-										url: 'https://github.com/SantiMA10/tailwindcss-parcel-starter',
-									},
-									{
-										name: 'devops-streamdeck',
-										stargazerCount: 35,
-										url: 'https://github.com/SantiMA10/devops-streamdeck',
-									},
-									{
-										name: 'lights',
-										stargazerCount: 7,
-										url: 'https://github.com/streamdevs/lights',
-									},
-								],
-							},
-						},
-					},
-				});
+			const repositories = GitHubRepositoryBuilder.buildList(3);
+			mockRepositoriesRequest(repositories);
 			const subject = new GitHubDriver({ token: 'token' });
 
-			const repositories = await subject.getRepositories();
+			const response = await subject.getRepositories();
 
-			expect(repositories).toEqual([
-				{
-					name: 'tailwindcss-parcel-starter',
-					stargazerCount: 42,
-					url: 'https://github.com/SantiMA10/tailwindcss-parcel-starter',
-				},
-				{
-					name: 'devops-streamdeck',
-					stargazerCount: 35,
-					url: 'https://github.com/SantiMA10/devops-streamdeck',
-				},
-				{
-					name: 'lights',
-					stargazerCount: 7,
-					url: 'https://github.com/streamdevs/lights',
-				},
-			]);
+			expect(response).toEqual(repositories);
 		});
 
 		it('returns an empty list if something goes wrong with the request', async () => {
