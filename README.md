@@ -16,12 +16,12 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/947663678' target='_blank'>
+<a href='https://www.twitch.tv/videos/955445579' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/9818dd3ab9f5ee320d64_santima10_41477316396_1616183121/thumb/thumb0-320x180.jpg' alt='🧑‍💻 Vamos a crear un paquete con nuestra configuración de eslint para poder irnos a dormir sin errores' />
+</a><a href='https://www.twitch.tv/videos/947663678' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d96d8fdbe31b552978c1_santima10_41407065484_1615633800/thumb/thumb0-320x180.jpg' alt='🧑‍💻 Trabajando en mi README.md hasta que acabe la secadora' />
 </a><a href='https://www.twitch.tv/videos/946678427' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/b7f856a778e435a5e04e_santima10_41398297612_1615572847/thumb/thumb0-320x180.jpg' alt='🧑‍💻 Un poquito de OpenSource el viernes por la tarde' />
-</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a>
 
 ---
