@@ -55,7 +55,7 @@ describe('TwitchDriver', () => {
 
 			const { data } = await subject.post<GetVideosResponse[]>('helix/videos?user_id=userId');
 
-			expect(data.length).toEqual(1);
+			expect(data).toHaveLength(1);
 		});
 	});
 });
