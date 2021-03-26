@@ -598,10 +598,10 @@
   dependencies:
     "@octokit/openapi-types" "^5.3.2"
 
-"@santima10/eslint-config@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@santima10/eslint-config/-/eslint-config-1.1.0.tgz#5c56b0beb9d4b60d220ce0a4b893c97c5db54a84"
-  integrity sha512-qyyjfrof04Y1vXtmMwBGKYZroYg96SILh9HG/QPvgWi1BEgCILpJkT6xSPR06o87Z5WdoJwYPaOWY0rRVW98dQ==
+"@santima10/eslint-config@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@santima10/eslint-config/-/eslint-config-1.3.0.tgz#d1154b17aca17190791c75f0c861527b3a532bd1"
+  integrity sha512-Nf/nTg9injiwnWbvonp2nqnMN3HG33WeddiFWNfxtL9nGJ1PxZ5lzBzi5QpHavkdE+7NnsSWR6r8tmz6ogf9gQ==
   dependencies:
     "@typescript-eslint/parser" "^4.18.0"
     typescript "^4.2.3"
