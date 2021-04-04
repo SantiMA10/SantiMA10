@@ -16,12 +16,12 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/972841958' target='_blank'>
+<a href='https://www.twitch.tv/videos/974922443' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/7bbef2f2c94a5e5ef319_santima10_41651614044_1617525199/thumb/thumb0-320x180.jpg' alt='🧑‍💻   Haciendo cosas con la API de puntos del canal [NEXT.js] [TypeScript] [Philips Hue] [Lifx]' />
+</a><a href='https://www.twitch.tv/videos/972841958' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/f17d6d62340dd79ac7dc_santima10_41633407276_1617388581/thumb/thumb0-320x180.jpg' alt='🧑‍💻   Haciendo cosas con la API de puntos del canal [NEXT.js] [TypeScript]' />
 </a><a href='https://www.twitch.tv/videos/956672549' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d8ee52136bb35557ba25_santima10_41489292652_1616263384/thumb/thumb0-320x180.jpg' alt='🧑‍💻 Un poco Storybook el sabado por la tarde' />
-</a><a href='https://www.twitch.tv/videos/955445579' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/9818dd3ab9f5ee320d64_santima10_41477316396_1616183121/thumb/thumb0-320x180.jpg' alt='🧑‍💻 Vamos a crear un paquete con nuestra configuración de eslint para poder irnos a dormir sin errores' />
 </a>
 
 ---
