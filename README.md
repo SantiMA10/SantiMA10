@@ -16,12 +16,12 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/1006312000' target='_blank'>
+<a href='https://www.twitch.tv/videos/1014488097' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d4d7d87c6734d4b83811_santima10_41749208957_1620411998/thumb/thumb0-320x180.jpg' alt='🏆 TypeChallenges, aprendiendo a usar los tipos de TypeScript' />
+</a><a href='https://www.twitch.tv/videos/1006312000' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/f50c4919a4429fbc05a2_santima10_42465931278_1619808041/thumb/thumb0-320x180.jpg' alt='🚀 Vamos a intentar hacer nuestra propia GitHub Action' />
 </a><a href='https://www.twitch.tv/videos/998181257' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/4d0ffd903a5f9629080c_santima10_42407961630_1619204087/thumb/thumb0-320x180.jpg' alt='🚩 Creando un badge para Stream Deck App Store [TypeScript] [hapi] [jest] ' />
-</a><a href='https://www.twitch.tv/videos/991013095' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/4758014b22686ec463a0_santima10_41797515932_1618680336/thumb/thumb0-320x180.jpg' alt='🧪 Tests con NEXT page tester, a la tercera va la vencida [NEXT.js] [TypeScript] [Philips Hue] [Lifx]' />
 </a>
 
 ---
