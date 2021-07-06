@@ -16,9 +16,7 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/1014488097' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d4d7d87c6734d4b83811_santima10_41749208957_1620411998/thumb/thumb0-320x180.jpg' alt='🏆 TypeChallenges, aprendiendo a usar los tipos de TypeScript' />
-</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
+<a href='https://www.twitch.tv/videos/623745130' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a><a href='https://www.twitch.tv/videos/610282071' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e80012229508c9d2388e_santima10_53745942379_5534629342/thumb/thumb610282071-320x180.jpg' alt='v1.0.0-beta release' />
