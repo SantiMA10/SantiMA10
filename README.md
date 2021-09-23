@@ -28,7 +28,7 @@
 
 ## ⭐️ Mis repos con más estrellas
 
-- ⭐️⭐️⭐️ [devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 47
+- ⭐️⭐️⭐️ [devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 48
 - ⭐️⭐️ [tailwindcss-parcel-starter](https://github.com/SantiMA10/tailwindcss-parcel-starter) 47
 - ⭐️ [lights](https://github.com/streamdevs/lights) 7
 
