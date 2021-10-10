@@ -1,4 +1,4 @@
-<img height="120" align="right" src="./.github/avatar.png" />
+<img height="120" align="right" src="https://raw.githubusercontent.com/SantiMA10/SantiMA10/main/.github/avatar.png" />
 
 ## Hola, soy Santi 🚀
 
