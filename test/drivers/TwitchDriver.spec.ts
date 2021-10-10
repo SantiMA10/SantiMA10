@@ -42,7 +42,7 @@ describe('TwitchDriver', () => {
 
 			await subject.post('helix/videos?user_id=userId');
 
-			expect(scope.isDone()).toEqual(true);
+			expect(scope.isDone()).toBe(true);
 		});
 
 		it('get videos from twitch', async () => {

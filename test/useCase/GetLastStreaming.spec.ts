@@ -6,9 +6,9 @@ describe('GetLastStreaming', () => {
 	describe('#execute', () => {
 		it('returns a list of TwitchVideos', async () => {
 			const videoResponse = GetVideosResponseBuilder.build();
-			const twitchDriver = ({
+			const twitchDriver = {
 				post: jest.fn(async () => ({ data: [videoResponse] })),
-			} as unknown) as TwitchDriver;
+			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
 			const { data } = await subject.execute({ userId: 'userId' });
@@ -29,9 +29,9 @@ describe('GetLastStreaming', () => {
 				thumbnail_url:
 					'https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/c8e10146f70c53ab65fe_santima10_40161155900_1606579448//thumb/thumb0-%{width}x%{height}.jpg',
 			});
-			const twitchDriver = ({
+			const twitchDriver = {
 				post: jest.fn(async () => ({ data: [videoResponse] })),
-			} as unknown) as TwitchDriver;
+			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
 			const { data } = await subject.execute({ userId: 'userId' });
@@ -52,9 +52,9 @@ describe('GetLastStreaming', () => {
 			const videoResponse = GetVideosResponseBuilder.build({
 				thumbnail_url: '',
 			});
-			const twitchDriver = ({
+			const twitchDriver = {
 				post: jest.fn(async () => ({ data: [videoResponse] })),
-			} as unknown) as TwitchDriver;
+			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
 			const { data } = await subject.execute({ userId: 'userId' });
