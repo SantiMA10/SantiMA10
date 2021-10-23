@@ -26,7 +26,7 @@
 
 ## ⭐️ Mis repos con más estrellas
 
-- ⭐️⭐️⭐️ [copilot-preview](https://github.com/github/copilot-preview) 8424
+- ⭐️⭐️⭐️ [copilot-preview](https://github.com/github/copilot-preview) 8433
 - ⭐️⭐️ [devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 49
 - ⭐️ [tailwindcss-parcel-starter](https://github.com/SantiMA10/tailwindcss-parcel-starter) 47
 
