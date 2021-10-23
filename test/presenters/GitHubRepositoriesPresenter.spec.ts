@@ -4,15 +4,15 @@ import { GitHubRepositoryBuilder } from '../builders/GitHubRepositoryBuilder';
 describe('GitHubRepositoriesPresenter', () => {
 	describe('toMarkdown', () => {
 		it('transforms the list of repositories into HTML', () => {
-			const respositories = GitHubRepositoryBuilder.buildList(3);
-			const subject = new GitHubRepositoriesPresenter(respositories);
+			const repositories = GitHubRepositoryBuilder.buildList(3);
+			const subject = new GitHubRepositoriesPresenter(repositories);
 
 			const html = subject.toMarkdown();
 
 			expect(html)
-				.toEqual(`- ⭐️⭐️⭐️ [${respositories[0].name}](${respositories[0].url}) ${respositories[0].stargazerCount}
-- ⭐️⭐️ [${respositories[1].name}](${respositories[1].url}) ${respositories[1].stargazerCount}
-- ⭐️ [${respositories[2].name}](${respositories[2].url}) ${respositories[2].stargazerCount}`);
+				.toEqual(`- ⭐️⭐️⭐️ [${repositories[0].owner.login}/${repositories[0].name}](${repositories[0].url}) ${repositories[0].stargazerCount}
+- ⭐️⭐️ [${repositories[1].owner.login}/${repositories[1].name}](${repositories[1].url}) ${repositories[1].stargazerCount}
+- ⭐️ [${repositories[2].owner.login}/${repositories[2].name}](${repositories[2].url}) ${repositories[2].stargazerCount}`);
 		});
 	});
 });

@@ -12,8 +12,16 @@ export class GitHubDriver {
 				`
 					{
 						repositoryOwner(login: "SantiMA10") {
-							repositories(orderBy: { field: STARGAZERS, direction: DESC }, first: 3) {
+							repositories(
+								orderBy: { field: STARGAZERS, direction: DESC }
+								first: 3
+								ownerAffiliations: [OWNER]
+							) {
 								nodes {
+									owner {
+										id
+										login
+									}
 									name
 									stargazerCount
 									url
