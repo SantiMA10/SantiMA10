@@ -6,9 +6,9 @@ export class GitHubRepositoriesPresenter {
 	public toMarkdown(): string {
 		return this.repositories
 			.map((repository, index) => {
-				return `- ${this.stargazerCount(index)} [${repository.name}](${repository.url}) ${
-					repository.stargazerCount
-				}`;
+				return `- ${this.stargazerCount(index)} [${repository.owner.login}/${repository.name}](${
+					repository.url
+				}) ${repository.stargazerCount}`;
 			})
 			.join('\n');
 	}
