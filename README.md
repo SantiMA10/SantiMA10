@@ -16,12 +16,12 @@
 
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
-<a href='https://www.twitch.tv/videos/1195866365' target='_blank'>
+<a href='https://www.twitch.tv/videos/1196873546' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/a0753a2b56835d764dbf_santima10_43721912876_1636136292/thumb/thumb0-320x180.jpg' alt='✍️  dotfiles con google/zx, es decir, JavaScript para hacer scripts' />
+</a><a href='https://www.twitch.tv/videos/1195866365' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/75f5f4c5a1fcfa3b5324_santima10_43712400364_1636046941/thumb/thumb0-320x180.jpg' alt='✍️ Preparando mis dotfiles con google/zx' />
 </a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
-</a><a href='https://www.twitch.tv/videos/610282071' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e80012229508c9d2388e_santima10_53745942379_5534629342/thumb/thumb610282071-320x180.jpg' alt='v1.0.0-beta release' />
 </a>
 
 ---
