@@ -1,3 +1,5 @@
+import { vi } from 'vitest';
+
 import { TwitchDriver } from '../../src/drivers/TwitchDriver';
 import { GetLastStreaming } from '../../src/useCase/GetLastStreaming';
 import { GetVideosResponseBuilder } from '../builders/twitch/GetVideosResponseBuilder';
@@ -7,7 +9,7 @@ describe('GetLastStreaming', () => {
 		it('returns a list of TwitchVideos', async () => {
 			const videoResponse = GetVideosResponseBuilder.build();
 			const twitchDriver = {
-				post: jest.fn(async () => ({ data: [videoResponse] })),
+				post: vi.fn(async () => ({ data: [videoResponse] })),
 			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
@@ -30,7 +32,7 @@ describe('GetLastStreaming', () => {
 					'https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/c8e10146f70c53ab65fe_santima10_40161155900_1606579448//thumb/thumb0-%{width}x%{height}.jpg',
 			});
 			const twitchDriver = {
-				post: jest.fn(async () => ({ data: [videoResponse] })),
+				post: vi.fn(async () => ({ data: [videoResponse] })),
 			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
@@ -53,7 +55,7 @@ describe('GetLastStreaming', () => {
 				thumbnail_url: '',
 			});
 			const twitchDriver = {
-				post: jest.fn(async () => ({ data: [videoResponse] })),
+				post: vi.fn(async () => ({ data: [videoResponse] })),
 			} as unknown as TwitchDriver;
 			const subject = new GetLastStreaming(twitchDriver);
 
