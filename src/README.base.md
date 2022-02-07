@@ -10,7 +10,7 @@
 - 🏗 Monto Legos...
 - 🛋 y muebles de ikea 
 - 🤔 Puedes preguntarme cosas sobre: JavaScript, TypeScript, firebase, react, NEXT.js, Google Cloud...
-- 📝 Para contactarme utiliza [Twitter](https://twitter.com/messages/compose?recipient_id=1397520804959694849) (tengo los MD abiertos!)
+- 📝 Para contactarme utiliza Twitter: [@SantiMA10](https://twitter.com/SantiMA10) ([tengo los MD abiertos!](https://twitter.com/messages/compose?recipient_id=1397520804959694849))
 
 ---
 
