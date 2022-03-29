@@ -40,7 +40,7 @@
 	"dependencies": {
 		"@octokit/graphql": "^4.6.1",
 		"dotenv": "^8.2.0",
-		"node-fetch": "^2.6.1"
+		"node-fetch": "^2.6.7"
 	},
 	"prettier": "@santima10/eslint-config/.prettierrc.json"
 }
