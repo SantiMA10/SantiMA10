@@ -21,8 +21,8 @@
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/09e1ab9af735593f6c77_santima10_39340920456_1651164927/thumb/thumb0-320x180.jpg' alt='🦖 Volvemos a deno 2 años después | !today !twitter !github' />
 </a><a href='https://www.twitch.tv/videos/1455821159' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/a8d8663cd0efd65ba25c_santima10_45222429276_1649955310/thumb/thumb0-320x180.jpg' alt='👀 Hacemos nuestra propia preview social | !today !twitter !github' />
-</a><a href='https://www.twitch.tv/videos/1449047350' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/73b1e60b819e9ff0892c_santima10_46100137037_1649350529/thumb/thumb0-320x180.jpg' alt='📂 Un poquito de open source | !today !twitter !github' />
+</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
+<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a>
 </div>
 
