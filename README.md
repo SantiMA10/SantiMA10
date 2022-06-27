@@ -17,9 +17,7 @@
 ## 🟣 Mis últimos directos en [Twitch](http://santi.live)
 
 <div id="twitch-videos">
-<a href='https://www.twitch.tv/videos/1469396007' target='_blank'>
-<img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/09e1ab9af735593f6c77_santima10_39340920456_1651164927/thumb/thumb0-320x180.jpg' alt='🦖 Volvemos a deno 2 años después | !today !twitter !github' />
-</a><a href='https://www.twitch.tv/videos/623745130' target='_blank'>
+<a href='https://www.twitch.tv/videos/623745130' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ee0ed741dfc7224e0ecc_santima10_94848502371_6523947211/thumb/custom-229ab2a5-41db-4c43-82f1-ecfe95337543-320x180.png' alt='¿Secret con CocaCola? Claro, es un token de refresco' />
 </a><a href='https://www.twitch.tv/videos/610282071' target='_blank'>
 <img width='30%' src='https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e80012229508c9d2388e_santima10_53745942379_5534629342/thumb/thumb610282071-320x180.jpg' alt='v1.0.0-beta release' />
