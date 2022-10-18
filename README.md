@@ -30,7 +30,7 @@
 
 - ⭐️⭐️⭐️ [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 70
 - ⭐️⭐️ [SantiMA10/tailwindcss-parcel-starter](https://github.com/SantiMA10/tailwindcss-parcel-starter) 48
-- ⭐️ [SantiMA10/app-engine-version-cleaner](https://github.com/SantiMA10/app-engine-version-cleaner) 6
+- ⭐️ [SantiMA10/firebase-workspaces](https://github.com/SantiMA10/firebase-workspaces) 7
 
 ---
 
