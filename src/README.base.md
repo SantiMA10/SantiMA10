@@ -14,13 +14,11 @@
 
 ---
 
-## 🟣 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
+## 📝 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
 
 <div id="blog-posts">
 {! posts !}
 </div>
-
----
 
 ---
 
