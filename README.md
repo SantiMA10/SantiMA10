@@ -14,7 +14,7 @@
 
 ---
 
-## 🟣 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
+## 📝 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
 
 <div id="blog-posts">
 <a href='https://santiagomartin.dev/blog/gitlab-github-en-el-stream-deck' target='_blank'>
@@ -25,8 +25,6 @@
 <img width='30%' src='https://santiagomartin.dev/api/og?title=%C2%BFQu%C3%A9%20opin%C3%A1is%20de%20GitHub%20Actions?' alt='¿Qué opináis de GitHub Actions?' />
 </a>
 </div>
-
----
 
 ---
 
@@ -50,6 +48,6 @@
 
 ---
 
-<p align="center">
+<p align="center" id="thanks">
 <i>¡Gracias a <a href="https://github.com/midudev" target="_blank"> midudev</a>, <a href="https://github.com/pablosirera" taget="_blank">Pablo Sirera</a> y <a href="https://github.com/carlosazaustre" target="_blank">Carlos Azaustre</a> por la inspiración!</i>
 </p>
