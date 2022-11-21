@@ -33,6 +33,7 @@
 		"jest-extended": "^0.11.5",
 		"nock": "^13.0.5",
 		"prettier": "^2.4.1",
+		"ts-mockito": "^2.6.1",
 		"ts-node": "^9.1.1",
 		"typescript": "^4.1.2",
 		"vitest": "^0.1.16"
@@ -40,7 +41,8 @@
 	"dependencies": {
 		"@octokit/graphql": "^4.6.1",
 		"dotenv": "^8.2.0",
-		"node-fetch": "^2.6.7"
+		"node-fetch": "^2.6.7",
+		"rss-parser": "^3.12.0"
 	},
 	"prettier": "@santima10/eslint-config/.prettierrc.json"
 }

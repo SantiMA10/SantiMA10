@@ -14,7 +14,17 @@
 
 ---
 
-## 🟣 Mis últimos directos en [Twitch](http://santi.live)
+## 🟣 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
+
+<div id="blog-posts">
+{! posts !}
+</div>
+
+---
+
+---
+
+## 🟣 Mis últimos directos en [Twitch](https://santi.live)
 
 <div id="twitch-videos">
 {! twitch !}
