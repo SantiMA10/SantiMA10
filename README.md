@@ -18,11 +18,11 @@
 
 <div id="blog-posts">
 <a href='https://santiagomartin.dev/blog/gitlab-github-en-el-stream-deck' target='_blank'>
-<img width='30%' src='https://santiagomartin.dev/api/og?title=GitLab/GitHub en el Stream Deck' alt='GitLab/GitHub en el Stream Deck' />
+<img width='30%' src='https://santiagomartin.dev/api/og?title=GitLab/GitHub%20en%20el%20Stream%20Deck' alt='GitLab/GitHub en el Stream Deck' />
 </a><a href='https://santiagomartin.dev/blog/hola-deno' target='_blank'>
-<img width='30%' src='https://santiagomartin.dev/api/og?title=¡Hola deno! 🦕' alt='¡Hola deno! 🦕' />
+<img width='30%' src='https://santiagomartin.dev/api/og?title=%C2%A1Hola%20deno!%20%F0%9F%A6%95' alt='¡Hola deno! 🦕' />
 </a><a href='https://santiagomartin.dev/blog/que-opinais-de-github-actions' target='_blank'>
-<img width='30%' src='https://santiagomartin.dev/api/og?title=¿Qué opináis de GitHub Actions?' alt='¿Qué opináis de GitHub Actions?' />
+<img width='30%' src='https://santiagomartin.dev/api/og?title=%C2%BFQu%C3%A9%20opin%C3%A1is%20de%20GitHub%20Actions?' alt='¿Qué opináis de GitHub Actions?' />
 </a>
 </div>
 
