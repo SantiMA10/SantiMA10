@@ -14,7 +14,23 @@
 
 ---
 
-## 🟣 Mis últimos directos en [Twitch](http://santi.live)
+## 🟣 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
+
+<div id="blog-posts">
+<a href='https://santiagomartin.dev/blog/gitlab-github-en-el-stream-deck' target='_blank'>
+<img width='30%' src='https://santiagomartin.dev/api/og?title=GitLab/GitHub en el Stream Deck' alt='GitLab/GitHub en el Stream Deck' />
+</a><a href='https://santiagomartin.dev/blog/hola-deno' target='_blank'>
+<img width='30%' src='https://santiagomartin.dev/api/og?title=¡Hola deno! 🦕' alt='¡Hola deno! 🦕' />
+</a><a href='https://santiagomartin.dev/blog/que-opinais-de-github-actions' target='_blank'>
+<img width='30%' src='https://santiagomartin.dev/api/og?title=¿Qué opináis de GitHub Actions?' alt='¿Qué opináis de GitHub Actions?' />
+</a>
+</div>
+
+---
+
+---
+
+## 🟣 Mis últimos directos en [Twitch](https://santi.live)
 
 <div id="twitch-videos">
 <a href='https://www.twitch.tv/videos/623745130' target='_blank'>
