@@ -6,6 +6,6 @@ export class BlogPost {
 	}
 
 	public get thumbnail(): string {
-		return `https://santiagomartin.dev/api/og?title=${this.title}`;
+		return `https://santiagomartin.dev/api/og?title=${encodeURI(this.title)}`;
 	}
 }
