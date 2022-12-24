@@ -17,12 +17,12 @@
 ## 📝 Mis últimos posts en mi [blog](https://santiagomartin.dev/blog)
 
 <div id="blog-posts">
-<a href='https://santiagomartin.dev/blog/gitlab-github-en-el-stream-deck' target='_blank'>
+<a href='https://santiagomartin.dev/blog/resumico-el-bot-que-resume-audios-de-whatsapp-parte-uno' target='_blank'>
+<img width='30%' src='https://santiagomartin.dev/api/og?title=resumico,%20el%20bot%20que%20resume%20audios%20de%20WhatsApp%20%5Bparte%201%5D' alt='resumico, el bot que resume audios de WhatsApp [parte 1]' />
+</a><a href='https://santiagomartin.dev/blog/gitlab-github-en-el-stream-deck' target='_blank'>
 <img width='30%' src='https://santiagomartin.dev/api/og?title=GitLab/GitHub%20en%20el%20Stream%20Deck' alt='GitLab/GitHub en el Stream Deck' />
 </a><a href='https://santiagomartin.dev/blog/hola-deno' target='_blank'>
 <img width='30%' src='https://santiagomartin.dev/api/og?title=%C2%A1Hola%20deno!%20%F0%9F%A6%95' alt='¡Hola deno! 🦕' />
-</a><a href='https://santiagomartin.dev/blog/que-opinais-de-github-actions' target='_blank'>
-<img width='30%' src='https://santiagomartin.dev/api/og?title=%C2%BFQu%C3%A9%20opin%C3%A1is%20de%20GitHub%20Actions?' alt='¿Qué opináis de GitHub Actions?' />
 </a>
 </div>
 
