@@ -3,7 +3,7 @@
 ## Hola, soy Santi 🚀
 
 - 😇 Software Engineer
-- 📅 Cosas de comunidad en [@asturiasjs](https://twitter.com/asturiasjs)
+- 📅 Cosas de comunidad en [@asturiaswcraft](https://twitter.com/asturiaswcraft)
 - 🟣 "live coding" en http://santi.live 
 - 🏀 Jugador de pachangas...
 - 🎮 y de videojuegos 
