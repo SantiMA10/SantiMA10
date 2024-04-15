@@ -44,7 +44,7 @@
 
 - ⭐️⭐️⭐️ [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) 96
 - ⭐️⭐️ [SantiMA10/tailwindcss-parcel-starter](https://github.com/SantiMA10/tailwindcss-parcel-starter) 50
-- ⭐️ [SantiMA10/resumico](https://github.com/SantiMA10/resumico) 17
+- ⭐️ [SantiMA10/resumico](https://github.com/SantiMA10/resumico) 18
 
 ---
 
